@@ -47,7 +47,7 @@
 
 <h2>12-Hour Itinerary</h2>
 
-<h3> Hour 1-6</h3>
+<h3><ins> Hour 1-6</ins></h3>
 <p1>
 <ul>
 <li>
@@ -63,7 +63,7 @@
   **Beginning of How to Teach Cyber:** Discover the importance of cyber discovery programs, plan impactful lessons, and ensure students receive foundational knowledge and skills.
 </p1> </li> </ul>
 
-<h3>Hour 7-12</h3>
+<h3><ins>Hour 7-12</ins></h3>
 <p1>Continuation of How to Teach Cyber: Seamlessly incorporate our on-demand curriculum in your upcoming semester. Get a hands-on guide on our modules, built-in PBL, and the confidence our system can instill in daily lessons.</p1><br>
 
 <ul>
