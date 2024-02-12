@@ -98,3 +98,12 @@
 <li><h3><a href="https://docs.google.com/presentation/d/1MOO-fELCooaPSUZaY0XN7ktBSZXnthfP/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">Day 3 - Cyber Teachers Externship Presentation Deck</a></h3></li>
 <li><h3><a href="https://docs.google.com/presentation/d/1SuEMAUkRephVSbMp4Zit7DYBnTTls5-3/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">Pre Module</a></h3></li>
 
+
+<h2> Powerpoint Resources</h2>
+<li><h3><a href="https://drive.google.com/file/d/1EQlc_FLVDs9XUltDv69nq3e6VHaaOtvq/view?usp=sharing">2019_Annual_Summary</a></h3></li>
+<li><h3><a href="https://drive.google.com/file/d/1ZHoIKpUrCKxPkbIqmn9_pvzVsMLYEN-w/view?usp=sharing">2020_Annual_Summary</a></h3></li>
+<li><h3><a href="https://drive.google.com/file/d/1MCea6_yp0aXqLVzSAeJtMvGZvABeQM1v/view?usp=sharing">Gmail - Bencrenshaw, Congrats, you have won a brand new Dewalt Drill</a></h3></li>
+<li><h3><a href="https://drive.google.com/file/d/1vzOM401JaiOUoaDaOpDveravRqBzPJyK/view?usp=sharing">IPTracker</a></h3></li>
+<li><h3><a href="https://drive.google.com/file/d/1knm-OxLuAUNYpUXMcyMCy2YQCBqj9lHq/view?usp=sharing">Sample Headers</a></h3></li>
+<li><h3><a href="https://drive.google.com/file/d/1DUSsnFa2U1eRH3jozj42TGdM3MrilXFj/view?usp=sharing">What is Cyber</a></h3></li>
+
