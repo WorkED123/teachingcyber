@@ -86,3 +86,14 @@
 <li>Persistent support and consultation to integrate the curriculum into your educational pathway seamlessly.</li><br>
 
 </ul>
+
+
+<h2> Program Resources</h2>
+
+<li><h3><a href="https://docs.google.com/document/d/1vEkg3qduKZIfwHZ8Kt-db_NYFIdtCLwS/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">Cyber Teacher Course Question and Clarifications</a></h3></li>
+<li><h3><a href="https://drive.google.com/file/d/1L1tZ0L5JKLdmxPPBG3ezH0xVxEWEWOh2/view?usp=sharing">Ice Breaker - Three Wishes</a></h3></li>
+<li><h3><a href="https://drive.google.com/file/d/1THicH_SXJll7RYWQNAaACo7jUFTVCG03/view?usp=sharing">Ice Breaker - Two Truths and a Lie</a></h3></li>
+<li><h3><a href="https://docs.google.com/presentation/d/1x78va9DeFV8yH2Eb6kYQT_KLm335Rb7x/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">Day 1 - Cyber Teachers Externship Presentation Deck</a></h3></li>
+<li><h3><a href="https://docs.google.com/presentation/d/14v-ZQVpcIBnu9QCT3l7vk58Zc8-ehY__/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">Day 2 - Cyber Teachers Externship Presentation Deck</a></h3></li>
+<li><h3><a href="https://docs.google.com/presentation/d/1MOO-fELCooaPSUZaY0XN7ktBSZXnthfP/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">Day 3 - Cyber Teachers Externship Presentation Deck</a></h3></li>
+
